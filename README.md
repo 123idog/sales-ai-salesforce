@@ -33,7 +33,7 @@ Salesforce lets an integration *write* almost anything. The hard part is that th
 
 ## About
 
-Written by **Ido Guy**, AI Engineer. I build production conversational AI and CRM automation for sales and customer-service teams.
+Written by **Ido Guy**, AI & Automation Engineer. I design end-to-end AI and CRM automation solutions for sales and operations teams.
 
 [LinkedIn](https://www.linkedin.com/in/ido-guy) · Also: [WhatsApp AI Agent Design](https://github.com/123idog/whatsapp-ai-agent-design) · [LLM Evaluation in Production](https://github.com/123idog/llm-evaluation-in-production) · [n8n Production Playbook](https://github.com/123idog/n8n-production-playbook)
 
